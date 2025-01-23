@@ -6,12 +6,12 @@ Material for the on-site activity devoted to SWOT satellite data during https://
 The repository contains two notebooks:
 
 1. **`SWOT_movies_CalVal.ipynb`**  
-   Demonstrates how to read SWOT L3 data from an S3 bucket and create a video from SWOT data swaths over crossover regions.
+   Demonstrates how to read SWOT L3 data from an S3 bucket and how to create a video from the SWOT data swaths over the crossover regions.
 
-2. **`Wavenumber_spectra_CalVal.ipynb`**  
+3. **`Wavenumber_spectra_CalVal.ipynb`**  
    Demonstrates the use of the `widetrax` library to compute Wavenumber spectra during the CalVal period and in your region of Interest.
 
-### Prerequisites for Running the Notebooks
+## Installing packages
 
 Before running the notebooks, you’ll need to install a couple of libraries:
 
