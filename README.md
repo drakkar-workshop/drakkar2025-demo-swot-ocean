@@ -21,6 +21,10 @@ Before running the notebooks, you’ll need to install a couple of libraries:
 
 2. **Install `widetrax`**  
    Once `pyinterp` is installed, you can proceed to install `widetrax` using `pip`. Simply follow the instructions provided [here](https://widetrax.readthedocs.io/en/latest/overview.html#installation).
+   
+3. **Install `jaxlib`**
+
+   The installation of widetrax includes `JAX` and, by default, automatically comes with a version of `jaxlib`. However, to avoid any issues, it is recommended to install `jaxlib` separately from [here](https://pypi.org/project/jaxlib/).
 
 ### **Note**
 
