@@ -31,11 +31,12 @@ Before running the notebooks, you’ll need to install a couple of libraries:
    You will also need to install `h5netcdf`, which is easy to install from [here](https://pypi.org/project/h5netcdf/).
 
 
-### **Note**
+## **Choose a region and time period**
+For both notebooks, you will need to select a region from the 24 available regions and a time period that falls within the CalVal phase, between 01-04-2023 and 10-07-2023.
+The coordinates of the regions we’ll be working with are stored in the following [GEOJSON file](notebooks/CalVal_Crossover_regions.geojson).
 
-The coordinates of the regions we’ll be working with are stored in the following [GEOJSON file](notebooks/CalVal_Crossover_regions.geojson), which will be used in both notebooks.  
 
-## SWOT data
+## **SWOT data**
 The SWOT data provided for this session is currently freely accessible but will move to private access after the workshop.
 To continue using SWOT data after the session, please ensure you have a valid account with the relevant data provider.
 Below are links to the providers’ websites, where you can create an account if you don’t already have one:  
@@ -44,6 +45,7 @@ Below are links to the providers’ websites, where you can create an account if
 - [CMEMS](https://data.marine.copernicus.eu/register)
 - [Theia](https://sso.theia-land.fr/theia/register/register.xhtml)
 - [ECMWF](https://accounts.ecmwf.int/auth/realms/ecmwf/login-actions/registration?client_id=cms-www&tab_id=mPXofltNksc)
+- ....
 
 > **Note:**  
 > It is not mandatory to register for each provider, only for those you will actually fetch data from.
