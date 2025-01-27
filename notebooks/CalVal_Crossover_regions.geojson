@@ -1,0 +1,1226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.03,
+              -40.5
+            ],
+            [
+              12.03,
+              -30.5
+            ],
+            [
+              20.03,
+              -30.5
+            ],
+            [
+              20.03,
+              -40.5
+            ],
+            [
+              12.03,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 12.03,
+        "lon_max": 20.03,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.74,
+              -40.5
+            ],
+            [
+              37.74,
+              -30.5
+            ],
+            [
+              45.74,
+              -30.5
+            ],
+            [
+              45.74,
+              -40.5
+            ],
+            [
+              37.74,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 37.74,
+        "lon_max": 45.74,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              63.45,
+              -40.5
+            ],
+            [
+              63.45,
+              -30.5
+            ],
+            [
+              71.45,
+              -30.5
+            ],
+            [
+              71.45,
+              -40.5
+            ],
+            [
+              63.45,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 63.45,
+        "lon_max": 71.45,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.16,
+              -40.5
+            ],
+            [
+              89.16,
+              -30.5
+            ],
+            [
+              97.16,
+              -30.5
+            ],
+            [
+              97.16,
+              -40.5
+            ],
+            [
+              89.16,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 89.16,
+        "lon_max": 97.16,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.87,
+              -40.5
+            ],
+            [
+              114.87,
+              -30.5
+            ],
+            [
+              122.87,
+              -30.5
+            ],
+            [
+              122.87,
+              -40.5
+            ],
+            [
+              114.87,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 114.87,
+        "lon_max": 122.87,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.58,
+              -40.5
+            ],
+            [
+              140.58,
+              -30.5
+            ],
+            [
+              148.58,
+              -30.5
+            ],
+            [
+              148.58,
+              -40.5
+            ],
+            [
+              140.58,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 140.58,
+        "lon_max": 148.58,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              166.29,
+              -40.5
+            ],
+            [
+              166.29,
+              -30.5
+            ],
+            [
+              174.29,
+              -30.5
+            ],
+            [
+              174.29,
+              -40.5
+            ],
+            [
+              166.29,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 166.29,
+        "lon_max": 174.29,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              192,
+              -40.5
+            ],
+            [
+              192,
+              -30.5
+            ],
+            [
+              200,
+              -30.5
+            ],
+            [
+              200,
+              -40.5
+            ],
+            [
+              192,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 192,
+        "lon_max": 200,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              217.71,
+              -40.5
+            ],
+            [
+              217.71,
+              -30.5
+            ],
+            [
+              225.71,
+              -30.5
+            ],
+            [
+              225.71,
+              -40.5
+            ],
+            [
+              217.71,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 217.71,
+        "lon_max": 225.71,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              243.42,
+              -40.5
+            ],
+            [
+              243.42,
+              -30.5
+            ],
+            [
+              251.42,
+              -30.5
+            ],
+            [
+              251.42,
+              -40.5
+            ],
+            [
+              243.42,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 243.42,
+        "lon_max": 251.42,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              269.13,
+              -40.5
+            ],
+            [
+              269.13,
+              -30.5
+            ],
+            [
+              277.13,
+              -30.5
+            ],
+            [
+              277.13,
+              -40.5
+            ],
+            [
+              269.13,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 269.13,
+        "lon_max": 277.13,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294.84,
+              -40.5
+            ],
+            [
+              294.84,
+              -30.5
+            ],
+            [
+              302.84,
+              -30.5
+            ],
+            [
+              302.84,
+              -40.5
+            ],
+            [
+              294.84,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 294.84,
+        "lon_max": 302.84,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              320.55,
+              -40.5
+            ],
+            [
+              320.55,
+              -30.5
+            ],
+            [
+              328.55,
+              -30.5
+            ],
+            [
+              328.55,
+              -40.5
+            ],
+            [
+              320.55,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 320.55,
+        "lon_max": 328.55,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              346.26,
+              -40.5
+            ],
+            [
+              346.26,
+              -30.5
+            ],
+            [
+              354.26,
+              -30.5
+            ],
+            [
+              354.26,
+              -40.5
+            ],
+            [
+              346.26,
+              -40.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "lon_min": 346.26,
+        "lon_max": 354.26,
+        "lat_min": -40.5,
+        "lat_max": -30.5,
+        "region_id": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8,
+              31
+            ],
+            [
+              -0.8,
+              41
+            ],
+            [
+              7.2,
+              41
+            ],
+            [
+              7.2,
+              31
+            ],
+            [
+              -0.8,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 15,
+        "lon_min": -0.8,
+        "lon_max": 7.2,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.91,
+              31
+            ],
+            [
+              24.91,
+              41
+            ],
+            [
+              32.91,
+              41
+            ],
+            [
+              32.91,
+              31
+            ],
+            [
+              24.91,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 16,
+        "lon_min": 24.91,
+        "lon_max": 32.91,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.62,
+              31
+            ],
+            [
+              50.62,
+              41
+            ],
+            [
+              58.62,
+              41
+            ],
+            [
+              58.62,
+              31
+            ],
+            [
+              50.62,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 17,
+        "lon_min": 50.62,
+        "lon_max": 58.62,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.33,
+              31
+            ],
+            [
+              76.33,
+              41
+            ],
+            [
+              84.33,
+              41
+            ],
+            [
+              84.33,
+              31
+            ],
+            [
+              76.33,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 18,
+        "lon_min": 76.33,
+        "lon_max": 84.33,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.04,
+              31
+            ],
+            [
+              102.04,
+              41
+            ],
+            [
+              110.04,
+              41
+            ],
+            [
+              110.04,
+              31
+            ],
+            [
+              102.04,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 19,
+        "lon_min": 102.04,
+        "lon_max": 110.04,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.75,
+              31
+            ],
+            [
+              127.75,
+              41
+            ],
+            [
+              135.75,
+              41
+            ],
+            [
+              135.75,
+              31
+            ],
+            [
+              127.75,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 20,
+        "lon_min": 127.75,
+        "lon_max": 135.75,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              153.46,
+              31
+            ],
+            [
+              153.46,
+              41
+            ],
+            [
+              161.46,
+              41
+            ],
+            [
+              161.46,
+              31
+            ],
+            [
+              153.46,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 21,
+        "lon_min": 153.46,
+        "lon_max": 161.46,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.17,
+              31
+            ],
+            [
+              179.17,
+              41
+            ],
+            [
+              187.17,
+              41
+            ],
+            [
+              187.17,
+              31
+            ],
+            [
+              179.17,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 22,
+        "lon_min": 179.17,
+        "lon_max": 187.17,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              204.88,
+              31
+            ],
+            [
+              204.88,
+              41
+            ],
+            [
+              212.88,
+              41
+            ],
+            [
+              212.88,
+              31
+            ],
+            [
+              204.88,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 23,
+        "lon_min": 204.88,
+        "lon_max": 212.88,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              230.59,
+              31
+            ],
+            [
+              230.59,
+              41
+            ],
+            [
+              238.59,
+              41
+            ],
+            [
+              238.59,
+              31
+            ],
+            [
+              230.59,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 24,
+        "lon_min": 230.59,
+        "lon_max": 238.59,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              256.3,
+              31
+            ],
+            [
+              256.3,
+              41
+            ],
+            [
+              264.3,
+              41
+            ],
+            [
+              264.3,
+              31
+            ],
+            [
+              256.3,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 25,
+        "lon_min": 256.3,
+        "lon_max": 264.3,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              282.01,
+              31
+            ],
+            [
+              282.01,
+              41
+            ],
+            [
+              290.01,
+              41
+            ],
+            [
+              290.01,
+              31
+            ],
+            [
+              282.01,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 26,
+        "lon_min": 282.01,
+        "lon_max": 290.01,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              307.72,
+              31
+            ],
+            [
+              307.72,
+              41
+            ],
+            [
+              315.72,
+              41
+            ],
+            [
+              315.72,
+              31
+            ],
+            [
+              307.72,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 27,
+        "lon_min": 307.72,
+        "lon_max": 315.72,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              333.43,
+              31
+            ],
+            [
+              333.43,
+              41
+            ],
+            [
+              341.43,
+              41
+            ],
+            [
+              341.43,
+              31
+            ],
+            [
+              333.43,
+              31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 28,
+        "lon_min": 333.43,
+        "lon_max": 341.43,
+        "lat_min": 31,
+        "lat_max": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              320.55,
+              56.5
+            ],
+            [
+              320.55,
+              66.5
+            ],
+            [
+              328.55,
+              66.5
+            ],
+            [
+              328.55,
+              56.5
+            ],
+            [
+              320.55,
+              56.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 29,
+        "lon_min": 320.55,
+        "lon_max": 328.55,
+        "lat_min": 56.5,
+        "lat_max": 66.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              294.84,
+              56.5
+            ],
+            [
+              294.84,
+              66.5
+            ],
+            [
+              302.84,
+              66.5
+            ],
+            [
+              302.84,
+              56.5
+            ],
+            [
+              294.84,
+              56.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 30,
+        "lon_min": 294.84,
+        "lon_max": 302.84,
+        "lat_min": 56.5,
+        "lat_max": 66.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              269.13,
+              56.5
+            ],
+            [
+              269.13,
+              66.5
+            ],
+            [
+              277.13,
+              66.5
+            ],
+            [
+              277.13,
+              56.5
+            ],
+            [
+              269.13,
+              56.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 31,
+        "lon_min": 269.13,
+        "lon_max": 277.13,
+        "lat_min": 56.5,
+        "lat_max": 66.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              243.42,
+              56.5
+            ],
+            [
+              243.42,
+              66.5
+            ],
+            [
+              251.42,
+              66.5
+            ],
+            [
+              251.42,
+              56.5
+            ],
+            [
+              243.42,
+              56.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 32,
+        "lon_min": 243.42,
+        "lon_max": 251.42,
+        "lat_min": 56.5,
+        "lat_max": 66.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              346.26,
+              56.5
+            ],
+            [
+              346.26,
+              66.5
+            ],
+            [
+              354.26,
+              66.5
+            ],
+            [
+              354.26,
+              56.5
+            ],
+            [
+              346.26,
+              56.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "region_id": 33,
+        "lon_min": 346.26,
+        "lon_max": 354.26,
+        "lat_min": 56.5,
+        "lat_max": 66.5
+      }
+    }
+  ]
+}
