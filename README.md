@@ -26,6 +26,11 @@ Before running the notebooks, you’ll need to install a couple of libraries:
 
    The installation of widetrax includes `JAX` and, by default, automatically comes with a version of `jaxlib`. However, to avoid any issues, it is recommended to install `jaxlib` separately from [here](https://pypi.org/project/jaxlib/).
 
+4. **Install `h5netcdf`**
+
+   You will also need to install `h5netcdf`, which is easy to install from [here](https://pypi.org/project/h5netcdf/).
+
+
 ### **Note**
 
 The coordinates of the regions we’ll be working with are stored in the following [GEOJSON file](notebooks/CalVal_Crossover_regions.geojson), which will be used in both notebooks.  
