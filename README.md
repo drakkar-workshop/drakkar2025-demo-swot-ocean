@@ -22,6 +22,10 @@ Before running the notebooks, you’ll need to install a couple of libraries:
 2. **Install `widetrax`**  
    Once `pyinterp` is installed, you can proceed to install `widetrax` using `pip`. Simply follow the instructions provided [here](https://widetrax.readthedocs.io/en/latest/overview.html#installation).
 
+### **Note**
+
+The coordinates of the regions we’ll be working with are stored in the following [GEOJSON file](notebooks/CalVal_Crossover_regions.geojson), which will be used in both notebooks.  
+
 ## SWOT data
 The SWOT data provided for this session is currently freely accessible but will move to private access after the workshop.
 To continue using SWOT data after the session, please ensure you have a valid account with the relevant data provider.
