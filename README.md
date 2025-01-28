@@ -42,9 +42,6 @@ To continue using SWOT data after the session, please ensure you have a valid ac
 Below are links to the providers’ websites, where you can create an account if you don’t already have one:  
 - [Aviso](https://www.aviso.altimetry.fr/en/home.html)
 - [EarthData (PODAAC, OBDAAC, ...)](https://www.earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/earthdata-login)
-- [CMEMS](https://data.marine.copernicus.eu/register)
-- [Theia](https://sso.theia-land.fr/theia/register/register.xhtml)
-- [ECMWF](https://accounts.ecmwf.int/auth/realms/ecmwf/login-actions/registration?client_id=cms-www&tab_id=mPXofltNksc)
 - ....
 
 > **Note:**  
